@@ -7,7 +7,7 @@ https://medium.com/@vanderloureiro
 
 ### Skills
 
-Java, SpringBoot, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular, Linux, Flutter, Elastic 
+Java, Scala, Kotlin, SpringBoot, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular, Linux, Flutter, Elastic 
 <!--
 **vanderloureiro/vanderloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
