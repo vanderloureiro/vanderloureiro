@@ -1,5 +1,5 @@
 # Olá 👋
-Sou Vanderlei Loureiro, engenheiro de software pela UFC e entusiasta na área. Gosto de refatorações, qualidade, design de código e arquitetura de software simples
+Sou Vanderlei Loureiro, engenheiro de software e entusiasta na área. Interessado em refatorações, qualidade, design de código e arquitetura de software simples
 
 ### Medium
 Onde escrevo:
@@ -7,7 +7,7 @@ https://medium.com/@vanderloureiro
 
 ### Skills
 
-Java, Scala, Kotlin, SpringBoot, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular, Linux, Flutter, Elastic 
+Java, Scala, Kotlin, SpringBoot, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular, Linux, Elastic 
 <!--
 **vanderloureiro/vanderloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
