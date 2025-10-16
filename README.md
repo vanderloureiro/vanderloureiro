@@ -1,5 +1,5 @@
 # Olá 👋
-Sou Vanderlei Loureiro, engenheiro de software e entusiasta na área. Interessado em refatorações, qualidade, design de código e arquitetura de software simples
+Engenheiro de software e entusiasta na área. Interessado em refatorações, qualidade, design de código e arquitetura de software
 
 ### Medium
 Onde escrevo:
