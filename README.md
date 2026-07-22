@@ -1,13 +1,9 @@
 # Olá 👋
-Engenheiro de software e entusiasta na área. Interessado em refatorações, qualidade, design de código e arquitetura de software
-
-### Medium
-Onde escrevo:
-https://medium.com/@vanderloureiro
+site: https://vanderloureiro.github.io/
 
 ### Skills
 
-Java, Scala, Kotlin, SpringBoot, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular, Linux, Elastic 
+Java, Scala, Kotlin, SpringBoot, Micronaut, Postgres, Microserviços, Docker, Apache Kafka, Redis, VueJs, Angular
 <!--
 **vanderloureiro/vanderloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
